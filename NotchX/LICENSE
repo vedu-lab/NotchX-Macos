@@ -1,0 +1,60 @@
+NOTCHX END USER LICENSE AGREEMENT & TERMS OF USE
+Copyright (c) 2026 Vedant. All Rights Reserved.
+
+IMPORTANT: PLEASE READ THIS SOFTWARE LICENSE AGREEMENT CAREFULLY BEFORE USING
+THE NOTCHX SOFTWARE. BY DOWNLOADING, INSTALLING, COPYING, OR USING THIS SOFTWARE,
+YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+1. PROPRIETARY RIGHTS & OWNERSHIP
+The NotchX software application, including but not limited to its binary executable,
+source code, graphical assets, icons (including the proprietary "NX" emblem), audio
+synthesis algorithms, acoustic sound design, user interface designs, and documentation
+("Software"), is the exclusive intellectual property of Vedant. The Software is
+licensed, not sold, to you for use strictly under the terms of this Agreement. All rights
+not expressly granted to you are reserved by Vedant.
+
+2. PERMITTED USE
+Subject to the terms and conditions of this Agreement, Vedant grants you a limited,
+non-exclusive, non-transferable, revocable license to install and execute the compiled
+binary version of the Software on compatible Apple Silicon Mac hardware running macOS.
+
+3. PROHIBITED ACTIONS & SECURITY RESTRICTIONS
+You expressly agree NOT to, and will not enable or permit others to:
+  (a) Decompile, disassemble, reverse engineer, decrypt, or attempt to derive the
+      source code of the Software or any part thereof;
+  (b) Modify, adapt, translate, enhance, or create derivative works of the Software;
+  (c) Circumvent, disable, bypass, or tamper with any digital rights management (DRM),
+      anti-tamper sentinels, integrity validation, or security shields embedded within
+      the Software;
+  (d) Rent, lease, lend, sell, sublicense, distribute, or commercially exploit the
+      Software, in whole or in part, without prior express written consent from Vedant;
+  (e) Extract, copy, reproduce, or reuse the proprietary "NX" logo, icons, or audio
+      cues in any other product, service, or medium;
+  (f) Attach unauthorized debuggers, memory injection hooks, or dynamic libraries
+      (such as via DYLD_INSERT_LIBRARIES) to the Software process.
+
+4. AUTOMATED INTEGRITY & ANTI-TAMPER SENTINEL
+The Software contains active runtime integrity mechanisms, kernel attachment defenses,
+and cryptographic code-signature validation. Any unauthorized alteration of the binary,
+code signature, or runtime environment will trigger an immediate security lockdown and
+termination of the application.
+
+5. TRADEMARKS & BRANDING
+"NotchX" and the "NX" geometric logo are proprietary trademarks of Vedant. Nothing in
+this Agreement grants you any right, title, or interest in or to these marks.
+
+6. TERMINATION
+This license is effective until terminated. Your rights under this license will terminate
+automatically without notice from Vedant if you fail to comply with any of its terms.
+
+7. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND.
+VEDANT DISCLAIMS ALL WARRANTIES, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING
+WITHOUT LIMITATION THE WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.
+
+8. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with applicable laws,
+excluding its conflicts of law rules.
+
+Copyright (c) 2026 Vedant. All Rights Reserved.
