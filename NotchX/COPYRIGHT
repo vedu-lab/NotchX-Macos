@@ -1,0 +1,36 @@
+================================================================================
+NOTCHX — INTELLECTUAL PROPERTY & COPYRIGHT NOTICE
+Copyright (c) 2026 Vedant. All rights reserved.
+================================================================================
+
+1. EXCLUSIVE OWNERSHIP
+The NotchX software suite, comprising all source code, compiled binaries,
+graphical user interfaces, animations, synthesized sound waves, documentation,
+and the proprietary "NX" brand logo, is the sole and exclusive intellectual
+property of Vedant.
+
+All title, ownership rights, copyrights, trademarks, trade dress, and patent
+rights in and to NotchX remain exclusively with Vedant.
+
+2. TRADEMARK & BRANDING NOTICE
+- "NotchX" is a proprietary trademark of Vedant.
+- The geometric double-outline "NX" emblem is a proprietary trademark and
+  visual symbol created for NotchX.
+- Unauthorized reproduction, imitation, or commercial use of these trademarks
+  is strictly prohibited.
+
+3. REVERSE ENGINEERING & ANTI-TAMPER POLICY
+NotchX incorporates active anti-tamper mechanisms, hardened runtime controls,
+and anti-debugging protections. Any attempt to decompile, reverse engineer,
+modify, hex-edit, or strip security protections from this software is a direct
+violation of copyright law and terms of use.
+
+4. THIRD-PARTY NOTICES
+NotchX uses standard macOS system SDK frameworks provided by Apple Inc.:
+  - AppKit, SwiftUI, Foundation, CoreAudio, AudioToolbox, Security, AVFoundation
+  Apple, macOS, and MacBook are registered trademarks of Apple Inc.
+
+5. CONTACT & LICENSING
+For legitimate licensing, commercial distribution partnerships, or permission inquiries:
+  Contact: Vedant
+  Copyright (c) 2026 Vedant. All Rights Reserved.

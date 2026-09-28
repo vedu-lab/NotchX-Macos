@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>NotchX</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.vedant.NotchX</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>NotchX</string>
+    <key>CFBundleDisplayName</key>
+    <string>NotchX</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSSupportsAutomaticTermination</key>
+    <true/>
+    <key>NSSupportsSuddenTermination</key>
+    <false/>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2026 Vedant. All rights reserved.</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>NotchX needs AppleScript access to control media and perform system actions.</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>NotchX accesses your calendar to display upcoming events and meetings directly in the notch.</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>NotchX accesses your calendar to display upcoming events and meetings directly in the notch.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>NotchX monitors microphone status for call controls in the notch.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>NotchX monitors camera status for call controls in the notch.</string>
+    <key>CFBundleGetInfoString</key>
+    <string>NotchX 1.0.0, Copyright © 2026 Vedant. All Rights Reserved.</string>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+</dict>
+</plist>
